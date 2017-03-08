@@ -1,6 +1,6 @@
 # ding-stops
 
-This is a simple script to download all [bodo](http://www.ding.eu) stops as [GTFS-compatible CSV](https://developers.google.com/transit/gtfs/reference/stops-file).
+This is a simple script to download all [DING](http://www.ding.eu) stops as [GTFS-compatible CSV](https://developers.google.com/transit/gtfs/reference/stops-file).
 
 The script uses the following endpoint:
 
